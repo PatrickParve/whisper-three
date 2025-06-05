@@ -1,0 +1,1 @@
+This was part of a school assignment for the course Distributed Software Systems. Most of the project was premade, but I contributed primarily to the network folder, where I wrote the code that had to be added.
